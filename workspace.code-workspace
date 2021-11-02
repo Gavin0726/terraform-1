@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "../coffeeshop"
+		},
+		{
+			"path": "../wegapp"
+		},
+		{
+			"path": "../circleci"
+		},
+		{
+			"path": "../terraform"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../centos7docker"
+		},
+		{
+			"path": "../cms_Frontend/p_website_cms_frontend"
+		},
+		{
+			"path": "../cms_Frontend/deploy/cms_frontend_deploy"
+		},
+		{
+			"path": "../cms_backend/p-website-cms-backend"
+		},
+		{
+			"path": "../cms_backend/deploy/cms-backend-deploy"
+		},
+		{
+			"path": "../djangoapi/djangoapi"
+		},
+		{
+			"path": "../aws/code/cicd-demo"
+		},
+		{
+			"path": "../aws/code/my-webpage"
+		},
+		{
+			"path": "../Intranet/intranetv2/intranet"
+		},
+		{
+			"path": "../Intranet/django-celery"
+		},
+		{
+			"path": "../apimonitor"
+		},
+		{
+			"path": "../mail sync/p-mail-service-sync"
+		},
+		{
+			"path": "../pyscript"
+		},
+		{
+			"path": "../k8s/glusterfs"
+		},
+		{
+			"path": "../mybingo"
+		}
+	],
+	"settings": {}
+}
